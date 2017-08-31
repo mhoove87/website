@@ -1,0 +1,26 @@
+---
+title: "SQL"
+output: html_document
+---
+
+# This is a first-level header
+## This is a second-level header
+### THis is a third level header
+
+* item 1
+* item 2
+* item 3
+* item 4
+
+For a paragraph, just type normally.
+
+column 1 | column 2
+---|---
+Phillies | National
+Yankees | American
+Cubs | National
+Red Sox | American
+
+![](Beagle_portrait_Camry.jpg)
+
+<img src="website.jpg" width="300"/>
